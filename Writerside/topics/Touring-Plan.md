@@ -33,4 +33,4 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 # Lookout Cay at Lighthouse Point
 
 ![lookout-cay.png](lookout-cay.png)
-[Fireworks Dessert Party at Tomorrowland Terrace](https://www.disneyfoodblog.com/magic-kingdom-fireworks-dessert-parties/)
+
