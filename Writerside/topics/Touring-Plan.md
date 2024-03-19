@@ -22,6 +22,8 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 
 # Nassau, Bahamas
 
+[Mass Schedule for the Cathedral of St. Francis Xavier](https://www.stfrancisxaviercathedral.org/mass-schedule)
+
 ![map01.png](map01.png)  
 
 ![nassau01.png](nassau01.png)
