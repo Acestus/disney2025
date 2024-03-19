@@ -8,14 +8,18 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 
 # Restaurants
 [Be Our Guest Restaurant](https://disneyworld.disney.go.com/en-eu/dining/magic-kingdom/be-our-guest-restaurant/)  
+<<<<<<< HEAD
 
 ![be-our-guest01.png](be-our-guest01.png)  
 
+=======
+>>>>>>> d30b1e07e60504135961731af6962d367dd6245d
 [The Crystal Palace](https://disneyworld.disney.go.com/en-eu/dining/magic-kingdom/crystal-palace/)  
 
 ![crystal-palace01.png](crystal-palace01.png)
 
 # Dessert Party
+<<<<<<< HEAD
 [Fireworks Dessert Party at Tomorrowland Terrace](https://www.disneyfoodblog.com/magic-kingdom-fireworks-dessert-parties/)
 
 # Nassau, Bahamas
@@ -31,3 +35,6 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 # Lookout Cay
 
 ![lookout-cay.png](lookout-cay.png)
+=======
+[Fireworks Dessert Party at Tomorrowland Terrace](https://www.disneyfoodblog.com/magic-kingdom-fireworks-dessert-parties/)
+>>>>>>> d30b1e07e60504135961731af6962d367dd6245d
