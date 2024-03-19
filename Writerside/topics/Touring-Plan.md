@@ -8,7 +8,7 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 
 ![touring-plans.png](touring-plans.png)
 
-# Restaurants
+# Magic Kingdom Restaurants
 [Be Our Guest Restaurant](https://disneyworld.disney.go.com/en-eu/dining/magic-kingdom/be-our-guest-restaurant/)  
 
 ![be-our-guest01.png](be-our-guest01.png)  
