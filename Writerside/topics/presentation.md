@@ -1,6 +1,8 @@
 # Disney Cruise Vacation
 
-I jotted a few ideas for a Disney Cruise vacation. 
+I jotted a few ideas for a Disney Cruise vacation. I would love to do it with the homeschool group. It would be a memorable experience for the kids. Maybe we can find group rates.  
+
+My first memories were going through the water on a much smaller boat.  
 
 
 ![Magic01-at-a-glance.png](Magic01-at-a-glance.png)  
