@@ -9,3 +9,5 @@ I jotted a few ideas for a Disney Cruise vacation.
 ![Magic05-swan-and-dolphin.png](Magic05-swan-and-dolphin.png)
 ![Magic06-airbnb.png](Magic06-airbnb.png)
 ![Magic07-southwest.png](Magic07-southwest.png)
+
+
