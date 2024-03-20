@@ -6,7 +6,9 @@
   
 This is a 2-day touring plan designed specifically to eliminate extra walking and backtracking. It is a comprehensive touring plan of the Magic Kingdom and includes nearly every child-friendly attraction in the park. The plan features long midday breaks for lunch and naps outside the park.
 
-![touring-plans.png](touring-plans.png)
+![touring-plans.png](touring-plans.png)  
+
+![touring-plans02.png](touring-plans02.png)  
 
 # Magic Kingdom Restaurants
 [Be Our Guest Restaurant](https://disneyworld.disney.go.com/en-eu/dining/magic-kingdom/be-our-guest-restaurant/)  
