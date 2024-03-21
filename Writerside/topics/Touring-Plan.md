@@ -25,6 +25,8 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 
 ![fireworks-dessert-party01.png](fireworks-dessert-party01.png) 
 
+Weather permitting, Tinker Bell will fly over your head during the fireworks show.
+
 ![fireworks-dessert-party02.png](fireworks-dessert-party02.png)  
 
 
