@@ -23,7 +23,10 @@ This is a 2-day touring plan designed specifically to eliminate extra walking an
 # Dessert Party
 [Fireworks Dessert Party at Tomorrowland Terrace](https://www.disneyfoodblog.com/magic-kingdom-fireworks-dessert-parties/)  
 
-![fireworks-dessert-party01.png](fireworks-dessert-party01.png)  
+![fireworks-dessert-party01.png](fireworks-dessert-party01.png) 
+
+![fireworks-dessert-party02.png](fireworks-dessert-party02.png)  
+
 
 # Nassau, Bahamas
 
