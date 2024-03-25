@@ -6,7 +6,7 @@
                   name="Disney Vacation 2025"
                   start-page="presentation.md">
 
-    <toc-element topic="presentation.md">
-    </toc-element>
+    <toc-element topic="presentation.md"/>
+    <toc-element topic="Disney-Magic-Oceaneer-Clubs.md"/>
     <toc-element topic="Touring-Plan.md"/>
 </instance-profile>
