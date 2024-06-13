@@ -2,6 +2,9 @@
 
 Puzzle Playtime with Mickey and Friends: Mickey Mouse and company stop by to play some games with Disney Cruise Line’s youngest seafarers and their families.
 
+This is a good website for information on booking with Disney
+https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/
+
 ![disney-magic05.png](disney-magic05.png)
 
 ![disney-magic04.png](disney-magic04.png)
