@@ -33,7 +33,7 @@ Castaway Cay, is absolutely beautiful and is worth the time and effort.
 Being on a Disney cruise feels like being able to teleport back into the parks during the early 2000’s. It’s peak Disney.
 
 
-![Magic01-at-a-glance.png](Magic01-at-a-glance.png)  
+![Magic01-at-a-glance.png](at-a-glance.png)  
 
 ![Magic02-disney-vacation.png](Magic02-disney-vacation.png)  
 
