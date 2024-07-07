@@ -47,4 +47,3 @@ Being on a Disney cruise feels like being able to teleport back into the parks d
 
 ![Magic07-southwest.png](Magic07-southwest.png)  
 
-
