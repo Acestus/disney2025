@@ -12,7 +12,7 @@ permissions:
 env:
   INSTANCE: 'Writerside/dv2'
   ARTIFACT: 'webHelpDV22-all.zip'
-  DOCKER_VERSION: '233.14938'
+  DOCKER_VERSION: '241.18775'
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
           docker-version: ${{ env.DOCKER_VERSION }}
 
       - name: Save artifact with build results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: docs
           path: |
